@@ -4,4 +4,4 @@ Found it in my archive and I don't want to lose it. It is a simple
 platformer game that I spent time on to learn the basics of game development 
 and experience working with game engines.
 
-<img src="Pt2/Screenshots/IMG_5894.PNG">
+<img src="Pt2/Screenshots/IMG_5894.PNG" width=40% height=40%>
