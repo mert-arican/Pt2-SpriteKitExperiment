@@ -36,7 +36,6 @@
 		D01B5D4026D93DFB0014A11A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D01B5D3F26D93DFB0014A11A /* Assets.xcassets */; };
 		D01B5D4326D93E000014A11A /* BitMaskValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01B5D4226D93E000014A11A /* BitMaskValues.swift */; };
 		D01B5D4726D93E090014A11A /* GameSound.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01B5D4526D93E090014A11A /* GameSound.swift */; };
-		D01B5D4826D93E090014A11A /* Latest.m4a in Resources */ = {isa = PBXBuildFile; fileRef = D01B5D4626D93E090014A11A /* Latest.m4a */; };
 		D01B5D4A26D93E100014A11A /* MyTileSet.sks in Resources */ = {isa = PBXBuildFile; fileRef = D01B5D4926D93E100014A11A /* MyTileSet.sks */; };
 		D01B5D4D26D93E9D0014A11A /* PtolemyNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01B5D4C26D93E9D0014A11A /* PtolemyNode.swift */; };
 		D01B5D5026D940310014A11A /* ItemNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01B5D4F26D940310014A11A /* ItemNode.swift */; };
@@ -85,7 +84,6 @@
 		D01B5D3F26D93DFB0014A11A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D01B5D4226D93E000014A11A /* BitMaskValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BitMaskValues.swift; sourceTree = "<group>"; };
 		D01B5D4526D93E090014A11A /* GameSound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameSound.swift; sourceTree = "<group>"; };
-		D01B5D4626D93E090014A11A /* Latest.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Latest.m4a; sourceTree = "<group>"; };
 		D01B5D4926D93E100014A11A /* MyTileSet.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyTileSet.sks; sourceTree = "<group>"; };
 		D01B5D4C26D93E9D0014A11A /* PtolemyNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PtolemyNode.swift; sourceTree = "<group>"; };
 		D01B5D4F26D940310014A11A /* ItemNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemNode.swift; sourceTree = "<group>"; };
@@ -213,7 +211,6 @@
 				D01B5D4526D93E090014A11A /* GameSound.swift */,
 				D01B5D3F26D93DFB0014A11A /* Assets.xcassets */,
 				D01B5D4926D93E100014A11A /* MyTileSet.sks */,
-				D01B5D4626D93E090014A11A /* Latest.m4a */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -311,7 +308,6 @@
 				D01B5D4026D93DFB0014A11A /* Assets.xcassets in Resources */,
 				D01B5D2626D93DD60014A11A /* GameScene.sks in Resources */,
 				D01B5D4A26D93E100014A11A /* MyTileSet.sks in Resources */,
-				D01B5D4826D93E090014A11A /* Latest.m4a in Resources */,
 				D02968842A533FD500C2D875 /* IMG_5895.PNG in Resources */,
 				D02968802A533FD500C2D875 /* IMG_5903.PNG in Resources */,
 				D02968862A533FD500C2D875 /* IMG_5894.PNG in Resources */,

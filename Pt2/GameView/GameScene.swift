@@ -92,7 +92,7 @@ class GameScene: SKScene {
         controlNodes.append(rightNode)
         controlNodes.append(jumpNode)
         
-//        GameSound.playTouch()
+        GameSound.playTouch()
         let dx = self.convert(ItemNode.allItemNodes[XXX]!.position, from: ItemNode.allItemNodes[XXX]!.parent!).x - ItemNode.allItemNodes[0]!.position.x
         controlNodes.forEach { $0.fillColor = .clear ; $0.position.x += dx
             
